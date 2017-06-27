@@ -1,2 +1,2 @@
-Git is a distributed control system.GPL
-Git is free software.
+Git is adistributed control system.GPL
+Git is free software.ssssssss
